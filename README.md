@@ -9,7 +9,7 @@ Se puede encontrar en el repocitorio los siguientes archivos:
 
 * diabetes.csv: dataset para el proceso de clasificación
 * main.py: script elaborado en python para la ejecución de modelo
-* requirements.txt = Las librerías usadas para este proyecto
+* requirements.txt: Las librerías usadas para este proyecto
 
 
 ## Ejecución
